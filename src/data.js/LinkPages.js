@@ -23,9 +23,9 @@ export const services = [
 
 ]
 export const tours = [
-    {id:1, img:{tour1}, date:"august 26th, 2020",title:"Tibet Adventure",imfo:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugitqui corporis.",location:"china", duration:"6 days",cost:"from $2100" },
-    {id:2, img:{tour2}, date:"october 1th, 2020",title:"best of java",imfo:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugitqui corporis.",location:"indonesia",duration:"11 days",cost:"from $1400" },
-    {id:3, img:{tour3}, date:"september 15th, 2020",title:"explore hong kong",imfo:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugitqui corporis.",location:"hong kong",duration:"8 days",cost:"from $5000" },
-    {id:4, img:{tour4}, date:"december 5th, 2019",title:"kenya highlights",imfo:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugitqui corporis.",location:"kenya",duration:"20 days",cost:"from $3300"},
+    {id:1, img1:{tour1}, date:"august 26th, 2020",title:"Tibet Adventure",imfo:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugitqui corporis.",location:"china", duration:"6 days",cost:"from $2100" },
+    {id:2, img2:{tour2}, date:"october 1th, 2020",title:"best of java",imfo:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugitqui corporis.",location:"indonesia",duration:"11 days",cost:"from $1400" },
+    {id:3, img3:{tour3}, date:"september 15th, 2020",title:"explore hong kong",imfo:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugitqui corporis.",location:"hong kong",duration:"8 days",cost:"from $5000" },
+    {id:4, img4:{tour4}, date:"december 5th, 2019",title:"kenya highlights",imfo:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugitqui corporis.",location:"kenya",duration:"20 days",cost:"from $3300"},
      
 ]
